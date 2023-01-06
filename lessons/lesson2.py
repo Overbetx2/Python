@@ -10,3 +10,8 @@ print(type(sum))
 print(type(multiply))
 
 #homework: повторить уроки / pep8 / github / поработать с математическими операторами ( база 100, 2 )
+
+
+
+
+
