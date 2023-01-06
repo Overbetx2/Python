@@ -3,3 +3,4 @@ shape_width = float(input("Введите ширину прямоугольни�
 shape_area = shape_len * shape_width
 
 print(f"Площадь прямоугольника равна: {shape_area}")
+#ffdfdfd
